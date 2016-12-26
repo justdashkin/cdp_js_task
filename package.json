@@ -1,0 +1,27 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "jasmine-plugin",
+    "jasmine-reporter",
+    "protractor-reporter",
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-protractor": "^3.0.0",
+    "jasmine": "^2.5.2",
+    "jasmine-allure-reporter": "0.2.3",
+    "jasmine-core": "2.3.0",
+    "jasmine-reporters": "^1.0.0",
+    "protractor": "^4.0.13"
+  }
+}
